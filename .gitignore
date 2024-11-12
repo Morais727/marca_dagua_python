@@ -1,0 +1,20 @@
+# Ignorar arquivos Python compilados
+__pycache__/
+*.py[cod]
+
+# Ignorar ambientes virtuais
+venv/
+.env/
+
+# Ignorar arquivos de configuração do editor
+.vscode/
+*.code-workspace
+
+# Ignorar arquivos temporários
+*.tmp
+*.log
+
+# Ignorar arquivos PDF gerados
+*.pdf
+
+*.png
